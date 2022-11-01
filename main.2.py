@@ -1,0 +1,5 @@
+zarplata = int(input('zarplata->'))
+platezh = int(input('platezh->'))
+borh = int(input('borh->'))
+res = (zarplata-platezh-borh)
+print(f'{zarplata-platezh-borh} = {res}')
